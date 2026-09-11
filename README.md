@@ -1,25 +1,27 @@
-Ever wonder why some tech reviews blow up while yours get stuck in subscriber purgatory? It’s rarely your camera setup or the algorithm. It’s your hook. 
+Retention is the holy grail of tech YouTube. You can have 4K B-roll, flawless lighting, and a crisp MKBHD-style setup, but if your pacing drops for five seconds, viewers click away.
 
-If you want to keep analytical, tech-obsessed viewers glued to the screen, master the **Logic Gap** framework.
+Enter **The Curiosity Loop**—the copywriting framework designed to eliminate drop-off graphs.
 
-A Logic Gap creates a psychological itch the brain *has* to scratch. You present two undeniable facts that feel completely contradictory when placed side-by-side. Your viewer’s brain instantly asks: *"Wait... how is that even possible?"* To bridge the gap and get the answer, they have to keep watching.
+The psychology is simple: human brains hate open loops. When you tease a piece of missing information, the brain creates a mental "itch" that can only be scratched by staying tuned. 
 
-Tech audiences are inherently logical. They love benchmarks, systems, and cause-and-effect. When you break that logic in the first five seconds, you instantly hijack their attention.
+The framework follows a three-step cycle:
+1. **Open a Loop:** Raise an intriguing question or introduce a problem.
+2. **Delay the Payoff:** Provide value, context, or testing while building tension.
+3. **Close & Chain:** Satisfy the loop, but plant a *new* open loop in the exact same breath.
 
-Here’s the simple formula:  
-**[Expected Fact A] + [Contradictory Result B] = The Logic Gap**
+Here is how it plays out in a tech review:
 
-Let’s see it in action:
+**Linear Script (Boring):** 
+*"Today we’re reviewing the Raspberry Pi 5. First, let's unbox it, check the specs, and then run some gaming benchmarks."* 
+(Result: Instant click-off.)
 
-* **Standard Hook:** "Today, I’m testing this $50 mechanical keyboard."
-* **Logic Gap Hook:** "This mechanical keyboard costs just $50... yet senior software engineers are ditching their $300 custom builds for it."
+**Curiosity Loop Script (Addictive):**
+* **Open Loop 1:** *"This $60 board can emulate PS2 games at 60fps—if you don't melt the chip first."*
+* **Delay:** Show the setup, run the benchmark, build anticipation around the thermals.
+* **Close Loop 1 / Open Loop 2:** *"So adding this aluminum heatsink keeps it cool... but it uncovers a much worse problem that ruins the portable setup entirely."*
 
-* **Standard Hook:** "Is the new M3 MacBook Air worth buying?"
-* **Logic Gap Hook:** "Apple built the M3 chip to be their fastest ever... so why did I just downgrade back to my M1?"
+Notice the trick? You close the first loop (thermals solved) while instantly opening the next one (portable setup ruined). The viewer never gets a "safe" moment to leave the video.
 
-See the difference? You aren’t using cheap, fake clickbait. You’re setting up a genuine technical mystery that your video actually answers. 
+To apply this to your next script: map out your video's top 3 value points. Never deliver Point A without teasing Point B two seconds earlier.
 
-Next time you draft a script, stop listing specs right away. Find the paradox. Expose the flaw in the narrative. Give your audience a gap they can't ignore, and watch your audience retention skyrocket.
-
-Automate your video scripts for free at
-[HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
