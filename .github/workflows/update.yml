@@ -2,8 +2,8 @@ name: Auto Update Content
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # يشتغل كل 4 ساعات مجاناً للأبد
-  workflow_dispatch: # للتشغيل اليدوي
+    - cron: '0 */4 * * *' # S'exécute automatiquement toutes les 4 heures
+  workflow_dispatch: # Permet le déclenchement manuel
 
 jobs:
   build:
@@ -33,4 +33,5 @@ jobs:
         git config --global user.name 'HookForge-Bot'
         git config --global user.email 'bot@hookforge.com'
         git add README.md
-        git commit -m "Upda
+        git commit -m "Update automated README with latest copywriting framework" || true
+        git push || true
