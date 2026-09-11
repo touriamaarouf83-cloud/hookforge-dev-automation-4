@@ -1,0 +1,36 @@
+name: Auto Update Content
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # يشتغل كل 4 ساعات مجاناً للأبد
+  workflow_dispatch: # للتشغيل اليدوي
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install google-generativeai requests
+
+    - name: Run Script
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        DEV_TO_API_KEY: ${{ secrets.DEV_TO_API_KEY }}
+      run: python script.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'HookForge-Bot'
+        git config --global user.email 'bot@hookforge.com'
+        git add README.md
+        git commit -m "Upda
