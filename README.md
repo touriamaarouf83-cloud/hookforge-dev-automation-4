@@ -1,23 +1,26 @@
-Retention is everything on YouTube. If your tech reviews are bleeding viewers after thirty seconds, your script structure is broken. Enter the **AIDA model**—a battle-tested copywriting framework designed to keep eyeballs glued to the screen.
+You spent 15 hours benchmarking GPUs, color-grading B-roll, and dialing in your audio. Then the YouTube analytics hit: 60% of your audience dropped off before the 30-second mark. 
 
-Here is how to map AIDA directly to your tech content:
+Ouch. 
 
-### 1. Attention (The Hook)
-Stop opening videos with *"Hey guys, welcome back!"* You have five seconds to make a promise or disrupt their scroll. 
-* **Example:** *"This $50 microphone just humiliated a $400 Shure SM7B in a blind audio test."*
+The fix isn't a flashier intro animation. It’s a psychological trigger called the **Open Loop Hook**.
 
-### 2. Interest (The Setup)
-Now that you have them, build curiosity. Lean into the specs, the problem, or the controversy, but keep it relatable. 
-* **Example:** *"Most creators overpay for audio because of branding. Today, we’re tearing down both mics to see if expensive preamps actually matter for your workflow."*
+An Open Loop is a copywriting technique that plants a question, mystery, or bold claim in the viewer’s mind within the first five seconds. This creates a "curiosity gap." The human brain hates unresolved information—it *demands* closure. By opening a loop immediately and delaying the resolution, you give viewers a compelling reason to keep watching.
 
-### 3. Desire (The Proof)
-Make your viewer feel the value. Show real-world side-by-sides, stress tests, or workflow upgrades. Move beyond spec sheets and focus on the emotional result: saving time, saving money, or boosting production quality.
-* **Example:** Play the raw audio clips side-by-side while showing the real-time waveform. Let them hear that the budget mic sounds 95% as good for a fraction of the price.
+Here is the basic framework:
 
-### 4. Action (The Payoff)
-Never let a video just fade out. Direct your audience with a clear, low-friction next step while their engagement is high.
-* **Example:** *"I dropped the free EQ presets for this budget mic in the description so you can copy my exact audio setup."*
+1. **Open the Loop:** Drop a high-stakes teaser or intriguing puzzle.
+2. **Build the Bridge:** Deliver your core value while keeping the loop open.
+3. **Close the Loop:** Deliver the payoff once you’ve secured their retention.
 
-By structuring your tech videos around AIDA, you stop rambling about specs and start telling a high-retention story that turns casual viewers into subscribers.
+Here is how this looks in practical tech scripting:
+
+*   **SaaS & Productivity:** *"This new AI tool cut my dev time in half this week. But if you don't turn off one default setting, it leaks your API keys..."* (Loop opened: What's the tool, and what's the setting?)
+*   **Hardware & Gear:** *"This $40 mic sounds better than my $400 Shure SM7B, but only if you use this free software tweak..."* (Loop opened: Which mic, and what's the tweak?)
+
+Notice the difference? You aren’t just saying, "Today we're reviewing X." You're presenting a high-value puzzle that requires watching the video to solve.
+
+**The Golden Rule:** Never leave a loop open forever, and never clickbait without delivering. Open loops build retention; delivering on the payoff builds long-term trust. 
+
+Stop starting your videos with intros and logos. Open a loop, raise the stakes, and watch your average view duration skyrocket.
 
 Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
