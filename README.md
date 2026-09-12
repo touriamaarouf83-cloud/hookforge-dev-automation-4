@@ -1,27 +1,25 @@
-You spent $3,000 on a new camera, burned 20 hours in Premiere, and viewers still swipe away after 20 seconds. Ouch. 
+Humans are hardwired to avoid pain twice as intensely as they seek pleasure. That’s basic loss aversion. Yet, most tech creators build hooks around positive gains. You tell your audience why a new GPU is fast, but you forget to highlight the disaster of buying the wrong one.
 
-High production value doesn't fix bad retention—psychology does. If you want to tank your drop-off rate and skyrocket average percentage viewed, you need **The Curiosity Loop**.
+Enter the **Negative Stake** framework.
 
-It’s a simple copywriting framework built around "information gaps." The human brain craves closure. When you open a loop, you trigger an itch the viewer *must* scratch by staying tuned. 
+Instead of promising a cool feature, you lead with the cost of ignorance. You show the viewer what they stand to lose—money, time, hardware performance, or privacy—if they scroll away or make the wrong choice.
 
-Here’s how to stack it in a tech video:
+Compare these two hooks:
 
-**1. Open the Loop**  
-Tease an unexpected result or high-stakes problem right away.  
-*Example:* "This $50 Raspberry Pi just outperformed my $5,000 Mac Studio... but only because of one dangerous tweak."
+* **Standard Hook:** "Here are 5 quick tips to optimize your VS Code setup."
+* **Negative Stake Hook:** "Your current VS Code extensions are silently throttling your CPU—and costing you hours of compilation time."
 
-**2. Extend the Loop**  
-Build tension before giving the answer. Show the benchmarks, highlight the thermal risks, and explain the stakes. You’re delaying gratification to hold retention while delivering solid context.
+* **Standard Hook:** "Is the base M3 MacBook worth buying?"
+* **Negative Stake Hook:** "Stop buying the 8GB MacBook. You’re effectively throwing $1,200 into a performance bottleneck."
 
-**3. Close and Chain**  
-Deliver the payoff, but *immediately* drop the next hook before the viewer mentally checks out.  
-*Example:* "...and that tweak unlocked 120 FPS effortlessly. *(Loop Closed)*. But running at this clock speed exposed a massive security flaw... *(New Loop Opened)*."
+See the difference? The negative stake triggers an instant psychological itch: *Wait, am I making this mistake right now?*
 
-The golden rule? **Never leave a loop closed for long.** 
+To use it in your next script, follow a simple 3-step formula:
 
-The exact second you resolve a question without posing a new one, the viewer’s brain registers the content as "finished"—and they click away. 
+1. **The Hidden Threat:** Call out a common mistake, bad buying advice, or hidden inefficiency.
+2. **The Consequence:** Agitate the loss (wasted cash, ruined workflow, degraded battery life).
+3. **The Lifeline:** Position your video as the clear solution to avoid that pain.
 
-By overlapping these loops, you turn a dry tech spec review into an addictive story arc. Structure your next script with 3 to 4 chained loops, and watch your retention graph flatten out.
+Stop pitching features. Start raising the stakes. When leaving your video feels like a productivity or financial risk, viewer retention takes care of itself.
 
-Automate your video scripts for free at
-[HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
