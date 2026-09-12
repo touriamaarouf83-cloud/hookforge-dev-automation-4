@@ -1,26 +1,27 @@
-You spent 15 hours benchmarking GPUs, color-grading B-roll, and dialing in your audio. Then the YouTube analytics hit: 60% of your audience dropped off before the 30-second mark. 
+You spent $3,000 on a new camera, burned 20 hours in Premiere, and viewers still swipe away after 20 seconds. Ouch. 
 
-Ouch. 
+High production value doesn't fix bad retention—psychology does. If you want to tank your drop-off rate and skyrocket average percentage viewed, you need **The Curiosity Loop**.
 
-The fix isn't a flashier intro animation. It’s a psychological trigger called the **Open Loop Hook**.
+It’s a simple copywriting framework built around "information gaps." The human brain craves closure. When you open a loop, you trigger an itch the viewer *must* scratch by staying tuned. 
 
-An Open Loop is a copywriting technique that plants a question, mystery, or bold claim in the viewer’s mind within the first five seconds. This creates a "curiosity gap." The human brain hates unresolved information—it *demands* closure. By opening a loop immediately and delaying the resolution, you give viewers a compelling reason to keep watching.
+Here’s how to stack it in a tech video:
 
-Here is the basic framework:
+**1. Open the Loop**  
+Tease an unexpected result or high-stakes problem right away.  
+*Example:* "This $50 Raspberry Pi just outperformed my $5,000 Mac Studio... but only because of one dangerous tweak."
 
-1. **Open the Loop:** Drop a high-stakes teaser or intriguing puzzle.
-2. **Build the Bridge:** Deliver your core value while keeping the loop open.
-3. **Close the Loop:** Deliver the payoff once you’ve secured their retention.
+**2. Extend the Loop**  
+Build tension before giving the answer. Show the benchmarks, highlight the thermal risks, and explain the stakes. You’re delaying gratification to hold retention while delivering solid context.
 
-Here is how this looks in practical tech scripting:
+**3. Close and Chain**  
+Deliver the payoff, but *immediately* drop the next hook before the viewer mentally checks out.  
+*Example:* "...and that tweak unlocked 120 FPS effortlessly. *(Loop Closed)*. But running at this clock speed exposed a massive security flaw... *(New Loop Opened)*."
 
-*   **SaaS & Productivity:** *"This new AI tool cut my dev time in half this week. But if you don't turn off one default setting, it leaks your API keys..."* (Loop opened: What's the tool, and what's the setting?)
-*   **Hardware & Gear:** *"This $40 mic sounds better than my $400 Shure SM7B, but only if you use this free software tweak..."* (Loop opened: Which mic, and what's the tweak?)
+The golden rule? **Never leave a loop closed for long.** 
 
-Notice the difference? You aren’t just saying, "Today we're reviewing X." You're presenting a high-value puzzle that requires watching the video to solve.
+The exact second you resolve a question without posing a new one, the viewer’s brain registers the content as "finished"—and they click away. 
 
-**The Golden Rule:** Never leave a loop open forever, and never clickbait without delivering. Open loops build retention; delivering on the payoff builds long-term trust. 
+By overlapping these loops, you turn a dry tech spec review into an addictive story arc. Structure your next script with 3 to 4 chained loops, and watch your retention graph flatten out.
 
-Stop starting your videos with intros and logos. Open a loop, raise the stakes, and watch your average view duration skyrocket.
-
-Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at
+[HookForge AI](https://hook-forge-prime.base44.app).
