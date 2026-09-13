@@ -1,30 +1,33 @@
-You have about four seconds before a tech viewer decides your video isn't worth their time. Start with *"Hey guys, today we’re reviewing the new M3 Mac,"* and half your audience is already clicking away.
+Your tech review has crispy 4K visuals, flawless pacing, and a $3,000 camera setup. So why are viewers clicking away 30 seconds in? 
 
-Enter the **Open Loop Hook**.
+Because you resolved the story before it even started. 
 
-Borrowed from Hollywood screenwriters, an open loop creates instant psychological tension. You drop a compelling question or intriguing setup into the viewer’s brain, but deliberately delay the payoff. Because human brains crave closure, the viewer is practically forced to keep watching just to "close the loop."
+If you want retention graphs that stay flat, you need to master the **Logic Gap**.
 
-Instead of summarizing your video in the intro, tease an unanswered mystery.
+A Logic Gap is a video copywriting framework where you present two facts that *seem* to contradict each other, leaving a glaring missing link. It creates instant cognitive dissonance—an itch in the viewer's brain that can only be scratched by watching your video to find the answer.
 
-Here is how to apply it to tech content:
+Compare these two intro hooks:
 
-**The Standard Hook:**  
-"In this video, I’m going to show you five VS Code extensions that speed up your coding workflow."
+**Boring Standard Hook:** 
+*"Today I’m reviewing the new M3 Max MacBook to see if it's worth your money."*
 
-**The Open Loop Hook:**  
-"There’s one hidden setting in VS Code that saved me 10 hours of debugging this week. But if you turn it on without changing *this* specific default preference, it will break your build. I'll show you the exact setup in a minute, but first, let's look at extension number one."
+**Logic Gap Hook:** 
+*"This laptop pulls less power than a desk lamp, yet it just benchmarked faster than a $10,000 server rig. But Apple didn't design it for raw power—they built it to fix a massive mistake they made five years ago."*
 
-Or for hardware:
+See what happened? 
+* **Fact A:** Extremely low power draw. 
+* **Fact B:** Beats a giant workstation. 
+* **The Gap:** *How is that physically possible, and what was the mistake?*
 
-**The Standard Hook:**  
-"Is this $1,000 GPU worth buying? Let's run some benchmarks."
+Here’s another example for dev channels: 
+*"Python dominates AI development. But senior engineers are quietly rewriting their core tools in a language nobody cared about three years ago. Here's the single benchmark that forced their hand."*
 
-**The Open Loop Hook:**  
-"I ran a 24-hour stress test on this new GPU, and at hour 19, it dropped a benchmark score so bad I thought the chip physically melted. Before I show you that thermal camera footage, we need to talk about the architecture."
+To build a Logic Gap in your next script:
+1. **Establish the Baseline:** State a known norm or fact in tech.
+2. **Inject the Anomaly:** Add a result or twist that shouldn't make sense alongside the baseline.
+3. **Delay the Bridge:** Promise the resolution, but force them to watch to get it.
 
-Notice the pattern? Drop an insane payoff upfront, tease the consequence, then pivot to your main content. 
-
-The golden rule: **Always close the loop.** Pay off the promise before the video ends, or you'll destroy trust. Master this, and your audience retention graphs will jump instantly.
+Stop opening videos with summaries. Give your audience a puzzle their brain physically refuses to leave unsolved.
 
 Automate your video scripts for free at
 [HookForge AI](https://hook-forge-prime.base44.app).
