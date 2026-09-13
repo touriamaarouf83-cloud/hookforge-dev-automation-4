@@ -1,32 +1,26 @@
-Stop pitching features. Nobody cares that a new GPU has 20% more CUDA cores if they don't understand the catastrophe of buying the wrong one. 
+Your audience has twenty tabs open, a phone buzzing, and a two-second attention span. If your tech review starts with "Hey guys, welcome back to the channel," your retention graph is already diving off a cliff. 
 
-If you want higher retention on your tech videos, you need the **Negative Stake** framework.
+To keep viewers hooked, you need structure. Enter **AIDA**—the classic battle-tested copywriting framework, tailored for tech creators.
 
-Most creators default to positive value: *"Here's how to speed up your render times!"* 
+Here is how to break it down:
 
-Boring. 
+**1. Attention (The Hook)**
+Stop the scroll instantly. Skip the flashy intro logo and jump straight into a bold claim, absurd test, or relatable pain point.
+* *Example:* "I swapped my $4,000 Mac Studio for a $200 mini PC for a week. Here is the terrifying part."
 
-Psychology proves humans are twice as motivated to avoid a loss as they are to chase a gain. The Negative Stake framework leverages this psychological quirk. Instead of dangling a potential reward, your hook immediately highlights what the viewer stands to **lose**—their hard-earned money, precious time, data security, or sanity—if they make the wrong choice or close the video.
+**2. Interest (The Setup)**
+Now that you have them, build curiosity. Introduce the specs, but frame them through a story or visual proof rather than just reading a spec sheet.
+* *Example:* "On paper, this budget chip should melt under 4K timeline scrubbing. But look at these thermal benchmarks when we push the GPU..."
 
-Here’s how to structure it in 3 simple steps:
+**3. Desire (The Payoff)**
+Move from "cool tech" to "how this changes your workflow." Connect the features to an emotional or practical benefit. 
+* *Example:* "Imagine rendering your entire video on a three-hour flight without fan noise or battery anxiety—for a quarter of the price of an iPad Pro."
 
-1. **The Ignorant Action:** Point out a common habit, purchase, or setting.
-2. **The Negative Stake:** Expose the hidden, painful cost of that mistake.
-3. **The Pivot:** Position your video as the essential fix.
+**4. Action (The Value-Driven CTA)**
+Never end on a weak "thanks for watching." Give your audience a clear, high-value next step.
+* *Example:* "If you want my exact budget setup config, check the description, and hit subscribe for part two next week."
 
-Let's look at a couple of tech examples:
-
-* **Standard Hook:** *"Here are 5 secret macOS features you should try."*
-* **Negative Stake Hook:** *"If you haven’t changed these 5 default macOS settings, you’re actively throttling your M-series chip and destroying your battery life."*
-
-* **Standard Hook:** *"Is this $500 monitor good for video editing?"*
-* **Negative Stake Hook:** *"Buying this budget monitor might ruin your color grading. Here’s the massive flaw the spec sheet hides."*
-
-See the difference? One promises a mild tip; the other prevents a mini-disaster. 
-
-Next time you write a script for a review, tutorial, or setup video, don't ask: *"What cool benefit does this offer?"* 
-
-Ask: *"What nightmare happens if my viewer ignores this?"* Frame your hook around that risk, and watch your retention graphs flatten out.
+AIDA turns chaotic tech rants into tight, high-retention stories. Master this rhythm, and watch your watch time soar.
 
 Automate your video scripts for free at
 [HookForge AI](https://hook-forge-prime.base44.app).
