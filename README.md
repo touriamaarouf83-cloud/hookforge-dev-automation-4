@@ -1,33 +1,23 @@
-Your tech review has crispy 4K visuals, flawless pacing, and a $3,000 camera setup. So why are viewers clicking away 30 seconds in? 
+Ever wonder why some tech reviews hook you instantly while others feel like someone reading a spec sheet out loud? It usually comes down to one simple video copywriting framework: **PAS** (Problem, Agitate, Solve).
 
-Because you resolved the story before it even started. 
+Tech viewers don't care about gigahertz or sensor sizes until they know *why* those specs matter to their lives. The PAS framework bridges that gap in the first 15 seconds of your script, keeping your retention graph flat.
 
-If you want retention graphs that stay flat, you need to master the **Logic Gap**.
+Here’s how to use it:
 
-A Logic Gap is a video copywriting framework where you present two facts that *seem* to contradict each other, leaving a glaring missing link. It creates instant cognitive dissonance—an itch in the viewer's brain that can only be scratched by watching your video to find the answer.
+**1. Problem**  
+Call out a hyper-specific pain point your viewer is experiencing right now. Skip the generic intro and drop them straight into a scenario they recognize.  
+*Example:* "Is your video editor stuttering every time you drop 4K log footage onto the timeline?"
 
-Compare these two intro hooks:
+**2. Agitate**  
+Rub salt in the wound. Remind them of the frustration, wasted time, or lost money this problem causes. Make them feel the annoyance all over again.  
+*Example:* "You spent two grand on a laptop that’s supposed to speed up your workflow, but instead, you're sitting there watching a render bar freeze while your deadline creeps closer."
 
-**Boring Standard Hook:** 
-*"Today I’m reviewing the new M3 Max MacBook to see if it's worth your money."*
+**3. Solve**  
+Position your video—or the feature you're covering—as the instant relief.  
+*Example:* "Here is the three-click proxy setting in Premiere that completely fixes playback lag, even on older hardware."
 
-**Logic Gap Hook:** 
-*"This laptop pulls less power than a desk lamp, yet it just benchmarked faster than a $10,000 server rig. But Apple didn't design it for raw power—they built it to fix a massive mistake they made five years ago."*
+Why does this work so well for tech YouTubers? Because tech audiences aren't looking for features; they're looking for fixes. 
 
-See what happened? 
-* **Fact A:** Extremely low power draw. 
-* **Fact B:** Beats a giant workstation. 
-* **The Gap:** *How is that physically possible, and what was the mistake?*
+By framing your intros with PAS, you transform dry technical breakdowns into compelling problem-solving stories. Stop listing specs first. Lead with the pain, make it sting, and deliver the solution.
 
-Here’s another example for dev channels: 
-*"Python dominates AI development. But senior engineers are quietly rewriting their core tools in a language nobody cared about three years ago. Here's the single benchmark that forced their hand."*
-
-To build a Logic Gap in your next script:
-1. **Establish the Baseline:** State a known norm or fact in tech.
-2. **Inject the Anomaly:** Add a result or twist that shouldn't make sense alongside the baseline.
-3. **Delay the Bridge:** Promise the resolution, but force them to watch to get it.
-
-Stop opening videos with summaries. Give your audience a puzzle their brain physically refuses to leave unsolved.
-
-Automate your video scripts for free at
-[HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
