@@ -1,23 +1,25 @@
-Ever wonder why some tech reviews hook you instantly while others feel like someone reading a spec sheet out loud? It usually comes down to one simple video copywriting framework: **PAS** (Problem, Agitate, Solve).
+Retention graphs dipping in the first 30 seconds? You’re probably opening your videos with a boring spec list or a drawn-out channel intro. 
 
-Tech viewers don't care about gigahertz or sensor sizes until they know *why* those specs matter to their lives. The PAS framework bridges that gap in the first 15 seconds of your script, keeping your retention graph flat.
+If you want viewers glued to their screens, you need a formula built on human psychology. Enter the **PAS Framework**: Problem, Agitate, Solve.
 
-Here’s how to use it:
+It’s simple, punchy, and tailor-made for tech YouTubers. Here is how it works:
 
-**1. Problem**  
-Call out a hyper-specific pain point your viewer is experiencing right now. Skip the generic intro and drop them straight into a scenario they recognize.  
-*Example:* "Is your video editor stuttering every time you drop 4K log footage onto the timeline?"
+**1. Problem**
+Identify a hyper-specific pain point your audience is dealing with right now.
+*Example:* "Your brand-new editing rig is stuttering on simple 4K timelines."
 
-**2. Agitate**  
-Rub salt in the wound. Remind them of the frustration, wasted time, or lost money this problem causes. Make them feel the annoyance all over again.  
-*Example:* "You spent two grand on a laptop that’s supposed to speed up your workflow, but instead, you're sitting there watching a render bar freeze while your deadline creeps closer."
+**2. Agitate**
+Pour salt on the wound. Amplify the frustration so they feel the consequences of leaving it unfixed.
+*Example:* "You spent $2,000 to save time, but now you’re staring at a spinning wheel while client deadlines tick away and your computer fans sound like a jet taking off."
 
-**3. Solve**  
-Position your video—or the feature you're covering—as the instant relief.  
-*Example:* "Here is the three-click proxy setting in Premiere that completely fixes playback lag, even on older hardware."
+**3. Solve**
+Deliver the fix—the core value proposition of your video.
+*Example:* "Here are three hidden cache settings in DaVinci Resolve that will make your playback buttery smooth instantly."
 
-Why does this work so well for tech YouTubers? Because tech audiences aren't looking for features; they're looking for fixes. 
+Why does this work so well for tech content? Because pain drives human action faster than pleasure. 
 
-By framing your intros with PAS, you transform dry technical breakdowns into compelling problem-solving stories. Stop listing specs first. Lead with the pain, make it sting, and deliver the solution.
+When you start a video reciting benchmark scores, viewers scroll away. But when you articulate their exact technical headache better than they can, you build instant authority. They stay because they *need* your fix.
+
+Stop opening with "Hey guys, welcome back." Identify the bug, agitate the frustration, and hand them the patch. 
 
 Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
