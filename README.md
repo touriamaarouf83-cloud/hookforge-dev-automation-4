@@ -1,29 +1,18 @@
-You spent three weeks editing a sleek desk setup tour, hit publish, and watched your retention graph plummet at second 15. Ouch. 
+Retention is the single hardest metric to master on YouTube—especially in tech, where viewers bounce the second a video gets too dry or spec-heavy. If you want people sticking around past the 30-second mark, you need a battle-tested blueprint.
 
-The fix isn't fancier B-roll or snappy jump cuts. It’s psychological tension. Enter the **Open Loop Hook**.
+Enter the **AIDA Model**. It’s a classic copywriting framework designed to lead viewers seamlessly from curiosity to click. Here’s how to break it down for your next tech review, tutorial, or setup tour:
 
-Borrowed from Hollywood screenwriters, an Open Loop drops a compelling question, mystery, or incomplete story right at the start—and deliberately delays the payoff. Because human brains crave closure, opening a loop forces the viewer's brain to stay tuned just to close it.
+*   **Attention (The Hook):** Grab them in the first 5 seconds. Ditch the slow intro animations and hit them with a bold claim, visual shock, or high-stakes problem.
+    *   *Tech Example:* "Stop buying the base model MacBook Pro. You're wasting your money, and here's the proof."
+*   **Interest (The Pivot):** Build on the hook with relatable pain points or intriguing data. Keep the momentum fast so they don't click away.
+    *   *Tech Example:* "Apple claims 8GB of RAM is 'enough,' but my 4K video render tests just crashed three times in a row."
+*   **Desire (The Value):** Make them crave the solution. Show the immediate payoff of watching the rest of your video.
+    *   *Tech Example:* "I stress-tested five different configurations under real-world creator workflows so you know *exactly* which specs are worth your hard-earned cash."
+*   **Action (The Payoff):** Give a clear, low-friction command before the video wraps up.
+    *   *Tech Example:* "Drop a comment with your current editing rig, and hit subscribe for part two where we test battery drain."
 
-Here is the three-step framework for tech videos:
+AIDA works because it mirrors human psychology: **Shock, Curiosity, Value, Action.** 
 
-1. **The Plant:** State a shocking result, anomaly, or mistake immediately.
-2. **The Hold:** Pivot to the main content *without* resolving the initial statement.
-3. **The Close:** Deliver the payoff near the climax of the video.
+Structure your outline with this flow before you hit record, and you’ll instantly eliminate dead air and boost your audience retention.
 
-Let's look at the difference in practice.
-
-**The Closed Loop (Boring):**
-> "Today, I tested the new M3 Max against an RTX 4090 setup, and the PC won easily. Let's dive into the specs."  
-*(Why keep watching? You already gave away the ending.)*
-
-**The Open Loop (Magnetic):**
-> "I ran a render test on this $4,000 MacBook that literally made me reconsider my entire desktop rig. But before you sell your PC, there's a massive thermal catch nobody is talking about..."  
-*(Loop opened. Viewer locked in.)*
-
-For a coding channel, it looks like this:  
-> "This single line of Python crashed a production database last night. We'll fix it today, but first, look at the error log that confused senior engineers for six hours."
-
-**The Golden Rule:** Never commit clickbait. The payoff *must* live up to the promise, or viewers will drop off forever. Open one major loop in the first 10 seconds, stack smaller micro-loops before topic transitions, and watch your watch-time skyrocket.
-
-Automate your video scripts for free at
-[HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
