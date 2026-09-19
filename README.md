@@ -1,25 +1,30 @@
-Your viewer’s attention span isn’t short—their threshold for boredom is just ridiculously low. If your YouTube retention graph drops off a cliff after the intro, you’re likely giving away the prize too fast. 
+Stop opening your tech reviews with spec sheets. Nobody cares about a 3nm architecture until you give them a reason to care. If you want viewers locked in past the 30-second mark, you need to master the **Logic Gap**.
 
-To fix your watch time, you need to master **The Curiosity Loop**.
+The Logic Gap is a copywriting framework that creates an intentional contradiction between a premise and a conclusion. The human brain hates unresolved paradoxes. When you present two statements that logically shouldn't exist together, your viewer's brain gets an itch it *has* to scratch by watching the video.
 
-It’s a psychological copywriting framework built on the "information gap"—the deep discomfort human brains feel when a compelling question is left unanswered. Instead of delivering information linearly, you structure your video as a chain of unresolved payoffs. 
+Here’s how it works in practice:
 
-Here’s the three-step mechanics:
+**Boring Standard Hook:**
+*"Testing the new $4,000 M3 Max MacBook Pro
+ for video editing."*
+(Predictable. Zero curiosity.)
 
-1. **Open the Loop:** Tease a high-stakes question, contradiction, or unexpected test result.
-2. **Delay the Payoff:** Provide context, perform the benchmark, or build the PC—delivering micro-value while keeping the primary answer just out of reach.
-3. **Close & Re-Open:** Answer the original question, but *immediately* throw out a new teaser before the viewer can click away.
+**Logic Gap Hook:**
+*"I bought Apple’s most powerful laptop... and immediately throttled its performance. Here’s why it actually made my editing workflow twice as fast."*
 
-Let’s look at a tech video example:
+Wait. Throttling a machine makes it faster? That doesn't make sense. *That* is the Logic Gap. 
 
-* **Boring, linear approach:** "Today we’re testing if the $200 mini PC can run Cyberpunk 2077."
-* **Curiosity Loop approach:** "This $200 mini PC shouldn't even boot Cyberpunk 2077. But after tweaking one hidden BIOS setting, we got playable framerates—with one dangerous catch."
+Here’s another one for PC builders:
+* **Standard:** "Is upgrading to 128GB of RAM worth it?"
+* **Logic Gap:** "Why adding 64GB of RAM to my rig actually crippled my render times."
 
-You’ve opened a loop about the performance, introduced a second loop about the "hidden BIOS setting," and planted a third about the "dangerous
- catch." 
+**How to execute the framework:**
 
-Once you finally reveal the BIOS setting at minute five, you instantly open the next loop: *"Now that it boots, let’s see if the power supply melts under load."*
+1. **Identify the Tech Norm:** Find a universally accepted belief (e.g., "Higher specs = better performance" or "More expensive gear = higher quality output").
+2. **Introduce the Contradiction:** Show a real scenario where doing the exact opposite produced a better result.
+3. **Delay the Resolution:** Tease the answer in your intro, but save the logical breakdown for the middle of your script.
 
-Never let a video breathe. The moment you satisfy curiosity, create more. Chain your loops from intro to end screen, and you'll turn casual scrollers into long-session viewers.
+Tech audiences pride themselves on logic. When you break that logic in your opening sentence, curiosity takes over, retention skyrockets, and the algorithm rewards you.
 
-Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at
+[HookForge AI](https://hook-forge-prime.base44.app).
