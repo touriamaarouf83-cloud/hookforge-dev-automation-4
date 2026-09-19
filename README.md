@@ -1,30 +1,25 @@
-You’ve got the crisp lighting, 4K camera, and the newest flagship smartphone in hand. But your retention graph still nose-dives 15 seconds in. 
+Your viewer’s attention span isn’t short—their threshold for boredom is just ridiculously low. If your YouTube retention graph drops off a cliff after the intro, you’re likely giving away the prize too fast. 
 
-Slick B-roll doesn't keep viewers watching—structure does. If you want to stop the scroll and boost your average view duration, you need the **AIDA Model**.
+To fix your watch time, you need to master **The Curiosity Loop**.
 
-AIDA is a battle-tested copywriting framework built to drag viewers through your script without them ever reaching for the back button. Here’s how to use it in your next tech review or tutorial:
+It’s a psychological copywriting framework built on the "information gap"—the deep discomfort human brains feel when a compelling question is left unanswered. Instead of delivering information linearly, you structure your video as a chain of unresolved payoffs. 
 
-### 1. Attention (0–5 seconds)
-Disrupt the viewer's feed instantly. Drop them right into the action or challenge a common belief. Skip the "Hey guys, welcome back."
+Here’s the three-step mechanics:
 
-* **Example:** *"Do NOT buy the M3 MacBook until you see this thermal test."*
+1. **Open the Loop:** Tease a high-stakes question, contradiction, or unexpected test result.
+2. **Delay the Payoff:** Provide context, perform the benchmark, or build the PC—delivering micro-value while keeping the primary answer just out of reach.
+3. **Close & Re-Open:** Answer the original question, but *immediately* throw out a new teaser before the viewer can click away.
 
-### 2. Interest (5–30 seconds)
-Hit them with a fascinating stat, an unexpected twist, or a specific pain point to build curiosity.
+Let’s look at a tech video example:
 
-* **Example:** *"Apple claims 20% faster speeds, but under heavy video rendering, it actually throttles harder than last year's model. Here’s the weird reason why..."*
+* **Boring, linear approach:** "Today we’re testing if the $200 mini PC can run Cyberpunk 2077."
+* **Curiosity Loop approach:** "This $200 mini PC shouldn't even boot Cyberpunk 2077. But after tweaking one hidden BIOS setting, we got playable framerates—with one dangerous catch."
 
-### 3. Desire (Main Body)
-Make them care. Show the emotional payoff or practical benefit of your solution. Paint a picture of what their workflow or setup looks like with this knowledge.
+You’ve opened a loop about the performance, introduced a second loop about the "hidden BIOS setting," and planted a third about the "dangerous
+ catch." 
 
-* **Example:** *"If you're a video editor, knowing this setup trick will save you three hours of render time every week—and keep $400 in your pocket by avoiding the upgrade."*
+Once you finally reveal the BIOS setting at minute five, you instantly open the next loop: *"Now that it boots, let’s see if the power supply melts under load."*
 
-### 4. Action (The Outro)
-Give one clear, friction-free directive. Don't beg—guide them seamlessly to the next step.
+Never let a video breathe. The moment you satisfy curiosity, create more. Chain your loops from intro to end screen, and you'll turn casual scrollers into long-session viewers.
 
-* **Example:** *"If you want the exact settings I used to bypass that throttle, tap the video on screen right now."*
-
-Mastering AIDA turns random tech rants into high-converting, bingeable content. Outline your scripts using these four beats before hitting record, and watch your watch time soar.
-
-Automate your video scripts for free at
-[HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
