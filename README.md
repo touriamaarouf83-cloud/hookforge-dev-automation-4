@@ -1,28 +1,26 @@
-YouTube retention isn't built on cheap clickbait anymore—it's built on tension. If you’re making tech videos, the absolute best way to create that tension in your hooks is a framework called the **Logic Gap**.
+Your YouTube retention graph shouldn't look like a ski slope. If viewers bounce before the 30-second mark, your script is missing a battle-tested copywriting framework: **AIDA**.
 
-Unlike a generic curiosity gap ("You won't believe this smartphone feature!"), a Logic Gap forces the viewer's brain to reconcile two facts that seemingly contradict each other. Tech audiences run on logic, specs, and benchmarks. When you break their logical expectations, they *have* to stick around to fix the glitch.
+AIDA stands for **Attention, Interest, Desire, and Action**. It’s the framework top tech channels use to turn casual scrollers into obsessed subscribers. 
 
-The formula is simple:
+Here is how to map it to your next tech video:
 
-**Accepted Tech Fact + Conflicting Reality = Logic Gap**
+**1. Attention (0–5 Seconds)**
+Stop the scroll. Skip the generic channel intro and hit them with a bold claim, visual flex, or jarring reality.
+* *Example:* "I replaced my $2,000 MacBook with a $50 Raspberry Pi for a week. Here’s everything that broke."
 
-Instead of a standard setup, present two true statements that logically shouldn't coexist.
+**2. Interest (5–30 Seconds)**
+Keep them hooked by introducing stakes, intriguing specs, or a specific problem you're solving.
+* *Example:* "Most people think mini PCs can't handle 4K editing. But after tweaking three hidden BIOS settings, the render benchmarks blew my mind."
 
-Look at the difference:
+**3. Desire (The Meat
+ of the Video)**
+Make the viewer *feel* the payoff. Don't just list technical specs; show them how this tech upgrades their life, desk setup, or workflow.
+* *Example:* "Imagine exporting a 20-minute video in under two minutes without hearing your cooling fans kick on once. That’s what this chip enables."
 
-* **Standard Hook:** "Today we're testing the M3 Max MacBook Pro against a budget Mini PC."
-* **Logic Gap Hook:** "This M3 Max MacBook Pro costs $4,000 and has 128GB of RAM. So why did a $600 Linux Mini PC just export my 8K timeline 20% faster?"
+**4. Action (The Outro)**
+Give one clear directive while viewer momentum is peaking.
+* *Example:* "Drop a comment with your current GPU, and check out this next video to see how it compares."
 
-The viewer's brain instantly goes, *"Wait, that doesn't add up."* They know the MacBook *should* win. The contradiction breaks their mental model, and the only way to repair it is to watch your video.
+Stop rambling and start structuring. Before you hit record, run every line of your outline through the AIDA filter. Watch your average view duration soar.
 
-Here’s another one for software or AI creators:
-
-* **Standard Hook:** "How to run local AI models on low-end hardware."
-* **Logic Gap Hook:** "This open-source AI model runs entirely offline on a cheap Raspberry Pi. Yet, it just beat GPT-4 on a Python coding benchmark."
-
-Use this frame in your first 15 seconds. State the premise, hit them with the absurd contradiction, and promise to solve the puzzle. 
-
-Stop telling viewers *what* you’re reviewing. Present a logical flaw in the matrix and make them watch you solve it.
-
-Automate your video scripts for free at
-[HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
