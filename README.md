@@ -1,28 +1,16 @@
-Ever watched a tech review that opens with, *"Hey guys, today we’re looking at the new M3 Mac Mini"*? 
+If your audience drops off before the first chapter marker, your script is broken. Tech viewers have zero patience for fluff—they want value, fast. 
 
-Yawn. Audience gone. Retention tanked.
+Enter **AIDA**: the classic copywriting framework that turns flatline retention graphs into steep slopes. Here’s how to map it to your next tech review, tutorial, or setup video:
 
-If you want viewers glued to the screen past the crucial 30-second mark, you need psychological leverage. That’s where the **PAS Framework** comes in. It stands for **Problem, Agitate, Solve**—and it’s the secret weapon behind some of the highest-retention tech channels on YouTube.
+*   **Attention (0–5 Seconds):** Stop the scroll immediately. Skip the animated intro and the "Hey guys, welcome back." Hit them with a bold claim, a visual hook, or a jarring stat.
+    *   *Tech Example:* "This $50 USB mic actually sounds better than your $400 Shure SM7B."
+*   **Interest (5–30 Seconds):** Layer on curiosity. Give them a reason to stick around by framing a problem they deeply relate to.
+    *   *Tech Example:* "I put both through a blind audio test with ten professional sound engineers, and eight of them picked the budget mic."
+*   **Desire (30 Seconds to Core Video):** Make them crave the outcome. Don't just list specs—specs are boring. Show what those specs *allow them to do*.
+    *   *Tech Example:* "Imagine saving $350 on your setup, ditching the bulky audio interface entirely, and still dropping studio-grade voiceovers for your coding channel."
+*   **Action (The CTA):** Give a single, clear directive while their enthusiasm is at its peak.
+    *   *Tech Example:* "Check the description for the exact EQ profile I used, and hit subscribe if you want more budget gear tests."
 
-Here’s how it works:
-
-*   **Problem:** Identify a specific, relatable pain point your viewer is facing.
-*   **Agitate:** Rub salt in the wound. Remind them *why* it sucks, how much time it wastes, or what it’s costing them.
-*   **Solve:** Present your video, product, or trick as the ultimate relief.
-
-Let's look at it in action.
-
-**Boring Tech Intro:** 
-*"
-Today I’m reviewing this $300 portable monitor."*
-
-**PAS Tech Intro:**
-*   **(P)** Your double-monitor workflow dies the second you leave your desk.
-*   **(A)** Trying to edit video or write code on a single 13-inch laptop screen at a coffee shop is painful. You’re constantly tab-switching, losing your train of thought, and working twice as slow.
-*   **(S)** This $300 ultra-slim OLED display slips right into your bag and doubles your screen real estate anywhere. Let’s see if it’s worth your cash.
-
-See the shift? The second version doesn't just list specs; it sells emotional relief. Tech audiences don't care about panel tech or clock speeds until they realize **what pain those specs eliminate**. 
-
-Apply PAS to your video intros, your thumbnail concepts, and even your mid-video transitions. Stop pitching features—start solving friction.
+Stop rambling through your intros. Structure your next script with AIDA, trim the fat, and watch your average percentage viewed skyrocket.
 
 Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
