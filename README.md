@@ -1,32 +1,28 @@
-Most tech creators open their videos like this: *"Today, I’m showing you the top 5 M3 MacBook settings to boost productivity."*
+Ever watched a tech review that opens with, *"Hey guys, today we’re looking at the new M3 Mac Mini"*? 
 
-Boring. Scroll. Next video.
+Yawn. Audience gone. Retention tanked.
 
-If you want retention rates that make the YouTube algorithm sweat, you need to flip the script with the **Negative Stake** framework.
+If you want viewers glued to the screen past the crucial 30-second mark, you need psychological leverage. That’s where the **PAS Framework** comes in. It stands for **Problem, Agitate, Solve**—and it’s the secret weapon behind some of the highest-retention tech channels on YouTube.
 
-Psychologically, humans are hardwired to avoid pain twice as intensely as they seek pleasure. Instead of telling your audience what they’ll *gain*, start by showing them what they stand to *lose* if they ignore your video.
+Here’s how it works:
 
-Here is the 3-step breakdown:
-1. **The Hidden Threat:** Reveal an invisible mistake they’re currently making.
-2. **The Amplified Cost:** Highlight the exact loss (time, money, hardware performance, security).
-3. **The Rescue:** Present your video as the immediate solution.
+*   **Problem:** Identify a specific, relatable pain point your viewer is facing.
+*   **Agitate:** Rub salt in the wound. Remind them *why* it sucks, how much time it wastes, or what it’s costing them.
+*   **Solve:** Present your video, product, or trick as the ultimate relief.
 
-Compare the difference in these tech niches:
+Let's look at it in action.
 
-*   **PC Building**
-    *   *Standard:* "How to optimize your RAM speed."
-    *   *Negative Stake:* "You’re losing up to 20% of your GPU performance right now because of one hidden BIOS setting you forgot to flip."
+**Boring Tech Intro:** 
+*"
+Today I’m reviewing this $300 portable monitor."*
 
-*   **Software Development**
-    *   *Standard:* "5 tips to write better React code."
-    *   *Negative Stake:* "This common coding bad habit is making your app load 3 seconds slower—and it’s driving your users straight to your competitors."
+**PAS Tech Intro:**
+*   **(P)** Your double-monitor workflow dies the second you leave your desk.
+*   **(A)** Trying to edit video or write code on a single 13-inch laptop screen at a coffee shop is painful. You’re constantly tab-switching, losing your train of thought, and working twice as slow.
+*   **(S)** This $300 ultra-slim OLED display slips right into your bag and doubles your screen real estate anywhere. Let’s see if it’s worth your cash.
 
-*   **Tech Reviews**
-    *   *Standard:* "Is this $50 microphone actually good?"
-    *   *Negative Stake:* "Stop wasting your money on expensive microphones. Your room acoustics are ruining your audio anyway, and here’s how to fix it for $0."
+See the shift? The second version doesn't just list specs; it sells emotional relief. Tech audiences don't care about panel tech or clock speeds until they realize **what pain those specs eliminate**. 
 
-Notice the shift? You aren't just offering advice—you're preventing a disaster.
-
-To apply this, find the biggest downside of *not* knowing your topic, quantify the threat in your hook, and position your content as the antidote.
+Apply PAS to your video intros, your thumbnail concepts, and even your mid-video transitions. Stop pitching features—start solving friction.
 
 Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
