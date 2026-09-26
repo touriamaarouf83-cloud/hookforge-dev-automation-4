@@ -1,27 +1,28 @@
-Ever lose a viewer in the first 15 seconds of a tech review or tutorial? It usually happens because you launched straight into specs instead of context. 
+Your audience has the attention span of a goldfish on espresso. Give away the payoff in the first five seconds of your tech video, and they’re clicking away to watch someone else.
 
-If you want to fix your retention graphs, stop dumping data and start using the **PAS Framework**.
+Enter the **Open Loop Hook**.
 
-PAS stands for **Problem, Agitate, Solution**. It’s a classic copywriting formula that top tech YouTubers use to hook viewers instantly and keep them glued to the screen. 
+Rooted in basic human psychology, an open loop creates a curiosity gap. You drop a high-stakes tease at the very beginning of your script, intentionally leave it unresolved, and pivot into your main topic. Your viewer’s brain physically craves closure—forcing them to stay locked in to close the loop.
 
-Here’s how it breaks down:
+Here is the 3-step execution framework:
 
-*   **Problem:** Name a hyper-specific pain point your audience is facing.
-*   **Agitate:** Rub salt in the wound. Remind them *why* that problem hurts—the wasted time, lost money, or sheer frustration. 
-*   **Solution:** Introduce your video's topic, tool, or workflow as the ultimate fix.
+1. **The Drop:** Reveal a wild result, hidden flaw, or high-stakes scenario.
+2. **The Delay:** Promise to solve or reveal it later in the video.
+3. **The Pivot:** Transition directly into your content setup.
 
-Most creators skip the "Agitate" step, but that’s where the magic lives. Emotion drives retention.
+Let’s translate this into real-world tech scripts:
 
-### The PAS Script in Action
+**Hardware Review Example:**
+> *"This $40 accessory doubled my M3 Mac’s export speeds, but if you buy the wrong version, it can actually fry your thunderbolt port. I’ll show you the exact model to avoid in a minute, but first, look at these benchmark numbers..."*
 
-Imagine you're making a video about a new coding tool or hardware upgrade.
+**Coding / Software Example:**
+> *"I let AI rewrite my startup's backend. It cut our server costs by 70%, except for one hidden line of code that almost leaked our entire database. Before I show you that fatal flaw, here’s how we set up the prompt..."*
 
-*   **Problem:** "Is your video editor freezing every time you apply color grading?"
-*   **Agitate:** "You’re losing hours to crash screens, missing deadlines, and watching your fan sound like a jet engine while a 30-second clip renders."
-*   **Solution:** "In this video, I’m showing you three hidden cache settings that instantly double your playback speed on older hardware."
+Notice the tension? The viewer isn't just watching a standard review or tutorial anymore. They *need* to know which model fries the port or which line of code broke the database.
 
-Notice the difference? You didn't start with, *"Hey guys, welcome back to the channel, today we’re talking about optimization settings."* You hijacked their attention by highlighting a headache they're dealing with right now.
+The golden rule of open loops: **Always close them.** Teasing a secret and failing to deliver is cheap clickbait. Delivering on your promise builds trust, skyrockets your average view duration (AVD), and keeps your retention graphs flat. 
 
-Next time you open a blank doc to write a script, skip the fluff intro. Point out the pain, make it burn, and hand them the cure. 
+Drop an open loop into your next intro and watch your retention jump.
 
-Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at
+[HookForge AI](https://hook-forge-prime.base44.app).
