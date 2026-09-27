@@ -1,29 +1,25 @@
-Your audience has a 5-second attention span. If your video intro sounds like, *"Hey guys, welcome back to the channel,"* you’ve already killed your retention graph.
+You’re losing viewers in the first 30 seconds because your introductions sound like a spec sheet. "Today, we're testing the new M3 Max chip." Cool. *Click away.*
 
-If you want viewers locked in, you need the **PAS Framework**: **Problem, Agitate, Solve**. It’s an elite copywriting formula that translates perfectly into high-retention tech videos.
+If you want flatline retention graphs to actually curve upward, you need to master the **Logic Gap** framework.
 
-Here’s how to build a PAS hook in 3 steps:
+The Logic Gap isn't just a standard teaser—it’s a psychological itch. You present two true statements that directly contradict each other so aggressively that the viewer’s brain physically *demands* an explanation to restore order.
 
-### 1. Problem
-Identify the exact friction point your viewer is facing. Skip the pleasantries and state the issue immediately.
+Here’s the core formula: **[Accepted Tech Baseline] + [Impossible Contradiction] = High Retention.**
 
-*Example:* "Thinking about buying the base M3 MacBook Air, but worried 8GB of RAM will choke under heavy 4K editing?"
+Look at the difference in a typical tech premise:
 
-### 2. Agitate
-Twist the knife. Make the frustration feel urgent, expensive, or annoying. Make them relive the pain.
+* **Boring:** "I tried using Linux for gaming for 30 days."
+* **Logic Gap:** "Linux is notorious for ruining anti-cheat and tanking frame rates. But last month, our $600 budget build ran Cyberpunk faster on Arch Linux than on Windows 11—with zero hardware tweaks."
 
-*Example:* "There’s nothing worse than dropping $1,200 on a shiny new Mac, only to watch the dreaded rainbow beachball spin endlessly while timeline playback stutters to a halt. You’re losing hours of productivity on a glorified paperweight."
+Hold on. Worse optimization, but higher FPS? *How?* That is the Logic Gap. The viewer cannot close the tab until that cognitive dissonance is resolved.
 
-### 3. Solve
-Position your video as the ultimate relief. Show them the light at the end of the tunnel.
+Here is how to deploy it in your next tech script:
 
-*Example:* "I ran real-world export tests, memory swap stress-tests, and live timeline edits to show you the exact limit of 8GB—so you don't waste your cash."
+1. **State the Rule:** Pick a widely accepted tech rule. *(e.g., "8GB of RAM isn't enough for 4K editing in 2024.")*
+2. **Violate the Rule:** Show a real instance where the rule broke. *(e.g., "This base-model Mac Mini just rendered a 4K timeline faster than our $4,000 threadripper rig.")*
+3. **Delay the Resolution:** Do not explain *why* in the intro. Use the video to build the bridge that connects premise A to premise B.
 
-### Why Tech Creators Need This
-Tech viewers are high-intent. They aren't browsing aimlessly; they want solutions to technical headaches, buying paralysis, or broken workflows. 
+Stop leading with specs and setup. Throw two conflicting realities at your audience, force them to ask "Why?", and make them watch to find out.
 
-When you lead with their exact pain point, you instantly build authority. You prove you understand their setup, their workflow, and their frustration before asking for 10 minutes of their time.
-
-Ditch the long-winded intros. Hook them with the problem, agitate the annoyance, and deliver the fix.
-
-Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
+Automate your video scripts for free at
+[HookForge AI](https://hook-forge-prime.base44.app).
