@@ -1,25 +1,29 @@
-Your audience has the attention span of a goldfish on espresso. If your video starts with a five-second intro animation or a boring spec dump, viewers are clicking away before you even mention the GPU core count. 
+Your audience has a 5-second attention span. If your video intro sounds like, *"Hey guys, welcome back to the channel,"* you’ve already killed your retention graph.
 
-To fix your retention graph, you need a battle-tested structure: **The AIDA Model**.
+If you want viewers locked in, you need the **PAS Framework**: **Problem, Agitate, Solve**. It’s an elite copywriting formula that translates perfectly into high-retention tech videos.
 
-AIDA stands for Attention, Interest, Desire, and Action. It’s a classic copywriting framework that translates insanely well to high-retention tech videos. Here is how to use it:
+Here’s how to build a PAS hook in 3 steps:
 
-**1. Attention (The 5-Second Hook)**
-Stop introducing yourself. Hit them with a high-stakes problem, a bold claim, or a wild result instantly.
-* *Example:* "This $50 Raspberry Pi setup replaces your $1,000 smart home hub—and it actually respects your privacy."
+### 1. Problem
+Identify the exact friction point your viewer is facing. Skip the pleasantries and state the issue immediately.
 
-**2. Interest (The Hook Payoff)**
-Now that you have their eyes, build curiosity. Unpack the mechanics, the hidden specs, or the "how-it-works" story without getting bogged down in jargon.
-* *Example:* "I ran local LLMs on this micro-chip for seven days straight, and the thermal benchmarks completely blew me away."
+*Example:* "Thinking about buying the base M3 MacBook Air, but worried 8GB of RAM will choke under heavy 4K editing?"
 
-**3. Desire (The Life Upgrade)**
-Make the tech personal. Paint a vivid picture of how this device, workflow, or software makes their life faster, cooler, or easier. 
-* *Example:* "Imagine rendering 4K timelines in half the time, without your room heating up like a sauna."
+### 2. Agitate
+Twist the knife. Make the frustration feel urgent, expensive, or annoying. Make them relive the pain.
 
-**4. Action (The Clean Exit)**
-Give a single, frictionless direction. Don't beg for likes—tell them what to do next.
-* *Example:* "Grab the full config file in the description and drop your benchmark scores below."
+*Example:* "There’s nothing worse than dropping $1,200 on a shiny new Mac, only to watch the dreaded rainbow beachball spin endlessly while timeline playback stutters to a halt. You’re losing hours of productivity on a glorified paperweight."
 
-Tech viewers love hardware specs, but human beings stay for stories and solutions. AIDA bridges that gap, turning one-off scrollers into long-term subscribers.
+### 3. Solve
+Position your video as the ultimate relief. Show them the light at the end of the tunnel.
+
+*Example:* "I ran real-world export tests, memory swap stress-tests, and live timeline edits to show you the exact limit of 8GB—so you don't waste your cash."
+
+### Why Tech Creators Need This
+Tech viewers are high-intent. They aren't browsing aimlessly; they want solutions to technical headaches, buying paralysis, or broken workflows. 
+
+When you lead with their exact pain point, you instantly build authority. You prove you understand their setup, their workflow, and their frustration before asking for 10 minutes of their time.
+
+Ditch the long-winded intros. Hook them with the problem, agitate the annoyance, and deliver the fix.
 
 Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
