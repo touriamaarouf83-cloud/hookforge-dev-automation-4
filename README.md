@@ -1,29 +1,27 @@
-You just spent three weeks reviewing the latest OLED monitor. You drop the video, and... your retention graph craters at 45 seconds. Why? Because you answered the video's core question in the introduction.
+Ever wonder why viewers bounce off your tech videos before the 30-second mark? You’re likely dumping specs or showing code before giving them a reason to care. 
 
-If you want viewers glued to their screens, you need to master **The Curiosity Loop**.
+If you want to lock in viewer retention, stop rambling and use the **PAS Framework**: Problem, Agitate, Solution.
 
-It’s a simple copywriting framework built on a fundamental psychological rule: the human brain *hates* an open information gap. 
+Here is how to structure your next video hook using PAS:
 
-Here is the three-step structure:
+**1. Problem**  
+Call out a specific, relatable headache your viewer faces right now.  
+*Example:* "Is your Docker image taking 15 minutes to build every single time you tweak a line of code?"
 
-1. **Open the Loop:** Plant a high-stakes question or unexpected setup right away.
-2. **Delay the Payoff:** Deliver high-value content while intentionally withholding the final answer.
-3. **Close the Loop:** Deliver the climax, then immediately open a new loop.
+**2. Agitate**  
+Rub salt in the wound. Highlight the wasted time, broken flow state, and pure frustration. Make them feel the pain.  
+*Example:* "That’s 15 minutes of dead momentum, context switching, and staring at a terminal while your deadline creeps closer. You’re burning hours every week on broken caching."
 
-Here’s how this looks in practice for a tech review.
+**3. Solution**  
+Position your video as the immediate, effortless fix.  
+*Example:* "In this video, I’m showing you three multi-stage build tweaks that drop your build times to under 30 seconds."
 
-**The Linear Way (Boring):**  
-*"Today we’re testing if the new M3 Max beats the M2 Ultra in 8K video editing. Spoiler: it’s 15% faster."*  
-Congrats, the viewer just got their answer and closed the tab.
+### Why It Works for Tech Content
 
-**The Curiosity Loop Way:**  
-*"Apple claims this $3,000 laptop outperforms a $5,000 desktop. But when I loaded an 8K timeline, the fans hit max speed and something completely unexpected happened to the export times..."*
+Tech viewers don't care about tools—they care about results. They aren't searching for a tutorial on a niche framework; they are searching for a way to stop suffering through a broken workflow.
 
-Now the viewer *has* to stay. You deliver genuine value—talking build quality, thermals, and display specs—all while holding the ultimate benchmark answer in reserve. You close the loop at the end of the chapter, right before teasing the next test.
+When you start with PAS, you bypass fluff like *"Hey guys, welcome back to the channel"* and instantly trigger an *"Oh, that’s me"* reaction. 
 
-**Pro Tip for YouTubers: Nest your loops.**  
-Run one Macro Loop for the entire video's premise, and stack Micro Loops inside each section. Tell them *what* you're testing, hold back the *result* until the end of that chapter, then immediately open the next loop before they can click away.
-
-Stop giving away the punchline in the first minute. Open a loop, hold the tension, and watch your watch-time skyrocket.
+Use this structure for your video intros, your titles, or even your script outlines. Identify a visceral problem, stir up the frustration, and present your content as the ultimate fix. Your retention graphs will thank you.
 
 Automate your video scripts for free at [HookForge AI](https://hook-forge-prime.base44.app).
